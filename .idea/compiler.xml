@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="4-Message" />
+        <module name="2-Constraint" />
+        <module name="3-MethodConstraint" />
+        <module name="1-GettingStarted" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1-GettingStarted" target="1.8" />
+      <module name="2-Constraint" target="1.8" />
+      <module name="3-MethodConstraint" target="1.8" />
+      <module name="4-Message" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

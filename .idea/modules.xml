@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../1-GettingStarted/1-GettingStarted.iml" filepath="$PROJECT_DIR$/../1-GettingStarted/1-GettingStarted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2-Constraint/2-Constraint.iml" filepath="$PROJECT_DIR$/../2-Constraint/2-Constraint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3-MethodConstraint/3-MethodConstraint.iml" filepath="$PROJECT_DIR$/../3-MethodConstraint/3-MethodConstraint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../4-Message/4-Message.iml" filepath="$PROJECT_DIR$/../4-Message/4-Message.iml" />
+    </modules>
+  </component>
+</project>
