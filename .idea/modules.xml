@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/2-Constraint/2-Constraint.iml" filepath="$PROJECT_DIR$/2-Constraint/2-Constraint.iml" />
       <module fileurl="file://$PROJECT_DIR$/3-MethodConstraint/3-MethodConstraint.iml" filepath="$PROJECT_DIR$/3-MethodConstraint/3-MethodConstraint.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-Message/4-Message.iml" filepath="$PROJECT_DIR$/4-Message/4-Message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-Group/5-Group.iml" filepath="$PROJECT_DIR$/5-Group/5-Group.iml" />
     </modules>
   </component>
 </project>
