@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/3-MethodConstraint/3-MethodConstraint.iml" filepath="$PROJECT_DIR$/3-MethodConstraint/3-MethodConstraint.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-Message/4-Message.iml" filepath="$PROJECT_DIR$/4-Message/4-Message.iml" />
       <module fileurl="file://$PROJECT_DIR$/5-Group/5-Group.iml" filepath="$PROJECT_DIR$/5-Group/5-Group.iml" />
+      <module fileurl="file://D:/workkspace/HibernateValidatorExample/6-CustomConstraint/6-CustomConstraint.iml" filepath="D:/workkspace/HibernateValidatorExample/6-CustomConstraint/6-CustomConstraint.iml" />
+      <module fileurl="file://D:/workkspace/HibernateValidatorExample/7-ValueExtractor/7-ValueExtractor.iml" filepath="D:/workkspace/HibernateValidatorExample/7-ValueExtractor/7-ValueExtractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Appendix-Spring/Appendix-Spring.iml" filepath="$PROJECT_DIR$/Appendix-Spring/Appendix-Spring.iml" />
     </modules>
   </component>
 </project>

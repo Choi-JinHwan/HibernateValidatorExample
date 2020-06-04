@@ -7,11 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="3-MethodConstraint" />
+        <module name="Appendix-Spring" />
         <module name="5-Group" />
-        <module name="2-Constraint" />
+        <module name="6-CustomConstraint" />
         <module name="4-Message" />
+        <module name="2-Constraint" />
         <module name="1-GettingStarted" />
+        <module name="7-ValueExtractor" />
+        <module name="3-MethodConstraint" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +23,14 @@
       <module name="3-MethodConstraint" target="1.8" />
       <module name="4-Message" target="1.8" />
       <module name="5-Group" target="1.8" />
+      <module name="6-CustomConstraint" target="1.8" />
+      <module name="7-ValueExtractor" target="1.8" />
+      <module name="Appendix-Spring" target="13" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Appendix-Spring" options="-parameters" />
+    </option>
   </component>
 </project>

@@ -12,10 +12,13 @@
         <option value="$PROJECT_DIR$/1-GettingStarted/pom.xml" />
         <option value="$PROJECT_DIR$/4-Message/pom.xml" />
         <option value="$PROJECT_DIR$/2-Constraint/pom.xml" />
+        <option value="D:/workkspace/HibernateValidatorExample/6-CustomConstraint/pom.xml" />
+        <option value="D:/workkspace/HibernateValidatorExample/7-ValueExtractor/pom.xml" />
+        <option value="$PROJECT_DIR$/Appendix-Spring/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13_PREVIEW" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
